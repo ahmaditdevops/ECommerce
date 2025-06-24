@@ -1,0 +1,20 @@
+echo "/bin
+/obj
+.vs
+.vscode
+*.user
+*.suo
+*.cache
+*.log
+*.swp
+*.swo
+packages/
+appsettings.Development.json
+__pycache__/
+node_modules/
+*.pyc
+*.db
+*.sqlite
+*.bak
+*.tmp
+*.temp" > .gitignore
