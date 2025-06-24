@@ -1,0 +1,16 @@
+D:\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.deps.json
+D:\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.dll
+D:\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.pdb
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.csproj.AssemblyReference.cache
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.AssemblyInfo.cs
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.sourcelink.json
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.dll
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\refint\ECommerce.Data.dll
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.pdb
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ref\ECommerce.Data.dll
+D:\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Core.dll
+D:\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Core.pdb
+D:\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerc.0B8C960C.Up2Date

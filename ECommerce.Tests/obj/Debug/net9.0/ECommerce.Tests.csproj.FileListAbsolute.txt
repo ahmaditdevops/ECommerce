@@ -1,0 +1,12 @@
+D:\ECommerce\ECommerce.Tests\bin\Debug\net9.0\ECommerce.Tests.deps.json
+D:\ECommerce\ECommerce.Tests\bin\Debug\net9.0\ECommerce.Tests.dll
+D:\ECommerce\ECommerce.Tests\bin\Debug\net9.0\ECommerce.Tests.pdb
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.AssemblyInfo.cs
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.sourcelink.json
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.dll
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\refint\ECommerce.Tests.dll
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ECommerce.Tests.pdb
+D:\ECommerce\ECommerce.Tests\obj\Debug\net9.0\ref\ECommerce.Tests.dll
